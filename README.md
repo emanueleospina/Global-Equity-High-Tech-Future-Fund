@@ -15,7 +15,6 @@
 - [ESG Framework](#esg-framework)
 - [Fund Metrics](#fund-metrics)
 - [Attribution Analysis](#attribution-analysis)
-- [Repository Structure](#repository-structure)
 - [Disclaimer](#disclaimer)
 ---
  
@@ -369,25 +368,6 @@ ESG scoring was a key differentiator in portfolio construction. Every company in
 | Kyndryl Holdings | -29.87% | +0.26% |
 | Bombardier Inc-B | -2.72% | +0.38% |
 | Rolls-Royce Holdings | -2.31% | -2.15% |
- 
----
- 
-## Repository Structure
- 
-```
-global-equity-high-tech-fund/
-│
-├── README.md                          ← You are here
-│
-├── docs/
-│   ├── GEHT_Fund_Prospectus.pdf       ← Full fund prospectus (17 pages)
-│   └── Prospectus_Summary.pdf         ← 2-page investor factsheet
-│
-└── data/
-    ├── InvescoMasterFile.xlsx          ← Bloomberg PORT export: holdings, VaR,
-    │                                      attribution, scenario analysis
-    └── INVESCO_FUTURES_TECH_FUND.xlsx  ← Supplementary data
-```
  
 ---
  
